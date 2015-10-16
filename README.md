@@ -12,6 +12,7 @@
 
 ### 绘图工具
 - [Method Draw](http://editor.method.ac/)
+- [Pixlr](https://pixlr.com/) (在线PS)
 - [创客贴](http://www.chuangkit.com/) (快速设计海报、PPT必备，墙裂推荐！)
 
 ### 配色工具
@@ -25,6 +26,7 @@
 
 ## 写作工具
 - [作业部落Cmd Markdown](https://www.zybuluo.com)
+- [StackEdit](https://stackedit.io/)
 
 ## 实用工具
 - [Imgur](http://imgur.com/)  (上传图片生成公开链接，Markdown写作必备)
