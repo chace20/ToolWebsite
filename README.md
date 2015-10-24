@@ -3,12 +3,15 @@
 
 博客地址：http://www.zhouchao.me/tool-website/
 
-##效率工具
+## 效率工具
 - [draw.io](https://www.draw.io/) (强大到爆的图表绘制)
 - [百度脑图](http://naotu.baidu.com/) (在线思维导图)
-- [墨刀](https://modao.cc/) (移动应用原型与线框工具)
 - [Google doc](https://www.google.com/docs)
 - [印象笔记](https://app.yinxiang.com)
+
+## 原型工具
+- [墨刀](https://modao.cc/) (移动应用原型与线框工具)
+- [Flinto](https://www.flinto.com) (将设计图片转换为可交互的原型，简单易用)
 
 ## 设计工具
 
@@ -31,7 +34,7 @@
 - [StackEdit](https://stackedit.io/)
 
 ## 实用工具
-- [Imgur](http://imgur.com/)  (上传图片生成公开链接，Markdown写作必备)
+- [Imgur](http://imgur.com/)  (上传图片生成公开链接)
 - [Online Image Optimizer](http://tools.dynamicdrive.com/imageoptimizer/index.php) (在线图片压缩)
-- [草料二维码](http://cli.im/)
+- [草料二维码](http://cli.im/) 
 - [百度短网址](http://www.dwz.cn/)
