@@ -21,6 +21,7 @@
 - [创客贴](http://www.chuangkit.com/) (快速设计海报、PPT必备，墙裂推荐！)
 
 ### 配色工具
+- [Material Design Color Palette Generator](http://www.materialpalette.com/) (可以生成xml,sass,less,css)
 - [Color Scheme Designer 3](http://www.peise.net/tools/web/)
 - [网页配色工具](http://ee-studio.com/tools/color_palette.html)
 - [颜色配色方案创建工具](http://ee-studio.com/tools/color_scheme/index.html)
@@ -36,5 +37,6 @@
 ## 实用工具
 - [Imgur](http://imgur.com/)  (上传图片生成公开链接)
 - [Online Image Optimizer](http://tools.dynamicdrive.com/imageoptimizer/index.php) (在线图片压缩)
+- [WOBZIP](http://wobzip.org/) (在线解压缩)
 - [草料二维码](http://cli.im/) 
 - [百度短网址](http://www.dwz.cn/)
