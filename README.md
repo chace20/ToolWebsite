@@ -12,6 +12,7 @@
 ## 原型工具
 - [墨刀](https://modao.cc/) (移动应用原型与线框工具)
 - [Flinto](https://www.flinto.com) (将设计图片转换为可交互的原型，简单易用)
+- [Prott](https://prottapp.com/)(跟Flinto类似，可以免费建一个项目)
 
 ## 设计工具
 
