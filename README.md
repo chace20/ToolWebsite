@@ -43,3 +43,4 @@
 - [WOBZIP](http://wobzip.org/) (在线解压缩)
 - [草料二维码](http://cli.im/) 
 - [百度短网址](http://www.dwz.cn/)
+- [在线OCR](http://ocr.wdku.net/)
