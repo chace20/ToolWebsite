@@ -38,6 +38,8 @@
 ## 写作工具
 - [作业部落Cmd Markdown](https://www.zybuluo.com)
 - [StackEdit](https://stackedit.io/)
+- [GitBook](https://www.gitbook.com/)(支持Git版本控制的电子书写作平台)
+- [Read the Docs](https://readthedocs.org/)(创建、托管和浏览文档)
 
 ## 实用工具
 - [Imgur](http://imgur.com/)  (上传图片生成公开链接)
