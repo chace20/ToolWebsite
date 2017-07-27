@@ -1,7 +1,8 @@
 # ToolWebsite
 收集常见的在线工具网站，欢迎大家补充
 
-博客地址：http://www.zhouchao.me/tool-website/
+## 商务工具
+- [天眼查](https://www.tianyancha.com/) (企业信息调查工具)
 
 ## 效率工具
 - [draw.io](https://www.draw.io/) (强大到爆的图表绘制)
@@ -33,6 +34,7 @@
 - [repl.it](https://repl.it/languages) (repl.it - Online REPL, Compiler & IDE)
 - [Ubuntu Pastebin](http://paste.ubuntu.com/) (粘贴代码并分享给别人)
 - [JSFiddle](http://jsfiddle.net/) (在线运行前端代码，可嵌入博客等地方做展示)
+- [State.of.dev](https://stateofdev.com/) (查看当前技术的发展趋势)
 - [RawGit](https://rawgit.com/) (RawGit serves raw files directly from GitHub with proper Content-Type headers)
 
 ## 写作工具
@@ -41,8 +43,15 @@
 - [GitBook](https://www.gitbook.com/)(支持Git版本控制的电子书写作平台)
 - [Read the Docs](https://readthedocs.org/)(创建、托管和浏览文档)
 
+## 电子书
+- [Kindle伴侣](https://bookfere.com/) (提供kindle的资讯、图书资源、使用技巧等)
+- [Clippings.io](https://my.clippings.io/) (在线导出kindle的笔记)
+- [PdfPocket](http://www.pdfpocket.com/) (在线转PDF为EPUB)
+- [Epubor](http://onlineconverter.epubor.com/) (在线eBook转换，支持epub、pdf、mobi互转)
+
 ## 实用工具
-- [Imgur](http://imgur.com/)  (上传图片生成公开链接)
+- [Imgur](http://imgur.com/) (上传图片生成公开链接)
+- [openload](https://openload.co/) (上传任意文件并分享公开链接)
 - [Online Image Optimizer](http://tools.dynamicdrive.com/imageoptimizer/index.php) (在线图片压缩)
 - [WOBZIP](http://wobzip.org/) (在线解压缩)
 - [草料二维码](http://cli.im/) 
