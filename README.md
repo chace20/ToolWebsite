@@ -37,6 +37,9 @@
 - [State.of.dev](https://stateofdev.com/) (查看当前技术的发展趋势)
 - [RawGit](https://rawgit.com/) (RawGit serves raw files directly from GitHub with proper Content-Type headers)
 
+### Python
+- [Python Tutor](http://www.pythontutor.com/)(可视化Python代码的执行过程)
+
 ## 写作工具
 - [作业部落Cmd Markdown](https://www.zybuluo.com)
 - [StackEdit](https://stackedit.io/)
