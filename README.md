@@ -60,3 +60,6 @@
 - [草料二维码](http://cli.im/) 
 - [百度短网址](http://www.dwz.cn/)
 - [在线OCR](http://ocr.wdku.net/)
+- [JMESPath](https://www.rdtoc.com/tools/jmespath)（JMESPath提取工具）
+- [JSONPath](https://www.rdtoc.com/tools/jsonpath)（JSONPath提取工具）
+- [TableConvert](https://tableconvert.com/)（强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式）
